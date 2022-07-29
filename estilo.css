@@ -4,3 +4,19 @@ body {
 h1 {
   text-align: center;
 }
+.caixa1 {
+  position: absolute;
+  background: purple;
+  color: #FFFFFF;
+  width: 200px;
+  height: 200px;
+  left: 50%
+}
+.caixa2 {
+  position: absolute;
+  background: pink;
+  color: #FFFFFF
+  width: 200px;
+  height: 200px;
+  left: 60%;
+}
