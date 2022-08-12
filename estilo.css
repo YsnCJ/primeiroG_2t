@@ -52,3 +52,19 @@ li a:hover {
   background: rgb(186, 112, 230);
   color:rgb(107, 4, 38)
 }
+#animal {
+  width: 20%;
+}
+.caixaAnimal {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 90;
+  height: 140px;
+  background: rgb(93, 57, 114);
+  margin: 20px;
+  border-color: blue;
+  border-width: 20px;
+  border-style: solid;
+  padding: 20px;
+}
