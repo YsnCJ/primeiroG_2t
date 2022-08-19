@@ -42,7 +42,7 @@ li {
 }
 li a  {
   display: block;
-  color: rgb(85, 4, 71);
+  color: rgb(126, 42, 112);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -59,7 +59,7 @@ li a:hover {
   left: 0;
   width: 90%;
   height: 140px;
-  background: rgb(144, 58, 194);
+  background: rgb(247, 245, 248);
   margin: 20px;
   border-color: blue;
   border-width: 20px;
@@ -83,4 +83,33 @@ li a:hover {
 .conteudo {
   position: relative;
   top: 25px;
+}
+ P1 {
+   font-style: oblique;
+   font-size: 18px;
+ }
+ P2 {
+   font-style: oblique;
+   font-size: 18px;
+ }
+ P3 {
+   font-style: oblique;
+   font-size: 18px;
+ }
+ h2 {
+   color: rgb(47, 19, 73);
+   font-size: 25px;
+ }
+.caixaB {
+  position: relative;
+  width: 10px;
+  top: 45px;
+  left: 0;
+  width: 90%;
+  height: 140px;
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: cente
+
 }
