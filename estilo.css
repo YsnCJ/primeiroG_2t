@@ -3,6 +3,7 @@ body {
 }
 h1 {
   text-align: center;
+  color: rgb(26, 1, 49);
 }
 .caixa1 {
   position: absolute;
@@ -55,7 +56,7 @@ li a:hover {
 
 .caixaA {
   position: absolute;
-  top: 45px;
+  top: 370px;
   left: 0;
   width: 90%;
   height: 140px;
@@ -96,9 +97,9 @@ li a:hover {
    font-style: oblique;
    font-size: 18px;
  }
- h2 {
-   color: rgb(47, 19, 73);
-   font-size: 25px;
+ P4 {
+   font-style: oblique;
+   font-size: 18px;
  }
 .caixaB {
   position: relative;
@@ -124,5 +125,12 @@ li a:hover {
   display: flex;
 }
 h3 {
-  color: rgb(67, 6, 124);
+  color: rgb(26, 1, 49);
   font-size: 25px;
+}
+h4 {
+  font-size: 25px;
+  color: rgb(26, 1, 49);
+}
+h2 {
+  color:rgb(26, 1, 49);
